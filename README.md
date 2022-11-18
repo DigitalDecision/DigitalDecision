@@ -6,5 +6,5 @@ STRIDE
 NEUTRON
 
 
--->
-![image](https://user-images.githubusercontent.com/58205039/201987126-be7250f3-e096-43db-855d-ba2ec8b7f8a1.png)
+
+![на-прозрачном-фоне-png](https://user-images.githubusercontent.com/58205039/202681393-fac32475-507b-49b2-b354-6b1e9cb0e774.png)
