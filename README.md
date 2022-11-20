@@ -1,5 +1,6 @@
 ✅   [Visit our website](http://digitaldecision.tech) 
- 👋 [Join our twitter](https://twitter.com/DigitDecision) 
+![twitter_png](https://user-images.githubusercontent.com/58205039/202899901-8ed6cf94-dc33-40b8-ab89-69cdcbd001fd.jpg)[Join our twitter](https://twitter.com/DigitDecision) 
+
 
 ## TESTNETS WE ARE LIVE 
 _____
